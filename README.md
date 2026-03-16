@@ -12,8 +12,7 @@
 
 *I don't just write code — I translate hard problems into resilient systems.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/christopher-pinto-fullstackdev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:highlander.all@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-pinto-fullstackdev)[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:highlander.all@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=phone&logoColor=white)](tel:+5511910134533)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511910134533)
 
