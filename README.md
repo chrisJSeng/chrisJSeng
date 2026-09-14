@@ -274,15 +274,13 @@ Many are architecture pattern explorations rather than finished products. The go
 
 ## 🤝 Collaboration
 
-Estou interessado em colaborar em:
-
 ![Distributed Systems](https://img.shields.io/badge/-Distributed_Systems-2c5364?style=flat-square)
 ![Security Engineering](https://img.shields.io/badge/-Security_Engineering-2c5364?style=flat-square)
 ![OSINT Platforms](https://img.shields.io/badge/-OSINT_Platforms-2c5364?style=flat-square)
 ![Intelligence Tooling](https://img.shields.io/badge/-Intelligence_Tooling-2c5364?style=flat-square)
 ![Applied AI](https://img.shields.io/badge/-Applied_AI-2c5364?style=flat-square)
 
-Se você está trabalhando em problemas difíceis nessas áreas, **abra uma issue** ou **inicie uma discussion**.
+If you are working on difficult problems in these areas, **open an issue** or **start a discussion**.
 
 ---
 
