@@ -197,19 +197,11 @@ I treat every project as a product problem first, a technical problem second. Th
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chrisJSeng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00c9a7&icon_color=00c9a7&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisJSeng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00c9a7&text_color=c9d1d9" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisJSeng&theme=tokyonight&hide_border=true&background=0f2027&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7" />
-
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisJSeng&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00c9a7&line=00c9a7&point=ffffff" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/chrisJSeng/chrisJSeng/main/github-metrics.svg" width="800"/>
 </div>
+
 
 ---
 
