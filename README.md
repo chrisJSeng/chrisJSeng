@@ -54,15 +54,15 @@ I design and build distributed systems, data pipelines, and intelligence platfor
 mindmap
   root((Engineering<br/>Principles))
     Root Cause
-      Solve the root problem, not the symptom
+      Solve the root<br/>problem, not the symptom
     Simplicity
-      Prefer simple architectures over clever ones
+      Prefer simple<br/>architectures over clever ones
     Observability
-      Build observability in from day one
+      Build observability<br/>in from day one
     Resilience
-      Design for failure before it happens
+      Design for failure<br/>before it happens
     Security
-      Security by design and by default
+      Security by design<br/>and by default
 ```
 
 ---
@@ -108,10 +108,10 @@ mindmap
 
 ```mermaid
 flowchart TD
-    A[💼 Business Demand] --> B{🎯 Problem Framing}
-    B -->|What is the actual root problem?| C[📐 System Specification]
-    C -->|Contracts, boundaries, data flows| D[🤖 AI-Assisted Development]
-    D -->|LLMs accelerate, engineers architect| E[✅ Observable, Resilient System]
+    A[💼 Business<br/>Demand] --> B{🎯 Problem<br/>Framing}
+    B -->|What is the<br/>actual root problem?| C[📐 System<br/>Specification]
+    C -->|Contracts, boundaries,<br/>data flows| D[🤖 AI-Assisted<br/>Development]
+    D -->|LLMs accelerate,<br/>engineers architect| E[✅ Observable,<br/>Resilient System]
 
     style A fill:#0f2027,color:#fff
     style B fill:#203a43,color:#fff
