@@ -112,16 +112,16 @@ mindmap
 
 ```mermaid
 flowchart TD
-    A[💼 Business<br/>Demand] --> B{🎯 Problem<br/>Framing}
-    B -->|What is the<br/>actual root problem?| C[📐 System<br/>Specification]
-    C -->|Contracts, boundaries,<br/>data flows| D[🤖 AI-Assisted<br/>Development]
-    D -->|LLMs accelerate,<br/>engineers architect| E[✅ Observable,<br/>Resilient System]
+    A[Business<br/>Demand] --> B{Problem<br/>Framing}
+    B -->|What is the<br/>actual root problem?| C[System<br/>Specification]
+    C -->|Contracts, boundaries,<br/>data flows| D[AI-Assisted<br/>Development]
+    D -->|LLMs accelerate,<br/>engineers architect| E[Observable,<br/>Resilient System]
 
-    style A fill:#0f2027,color:#fff
-    style B fill:#203a43,color:#fff
-    style C fill:#2c5364,color:#fff
-    style D fill:#00838f,color:#fff
-    style E fill:#00c9a7,color:#0f2027
+    style A fill:#0f2027,stroke:#00c9a7,stroke-width:1px,color:#fff
+    style B fill:#203a43,stroke:#00c9a7,stroke-width:1px,color:#fff
+    style C fill:#2c5364,stroke:#00c9a7,stroke-width:1px,color:#fff
+    style D fill:#00838f,stroke:#00c9a7,stroke-width:1px,color:#fff
+    style E fill:#00c9a7,stroke:#0f2027,stroke-width:1px,color:#0f2027
 ```
 
 I treat every project as a product problem first, a technical problem second. This means understanding **why** before **how**, and documenting decisions so future engineers (or AI tools) can understand the reasoning behind the system.
@@ -248,14 +248,14 @@ interests:
 
 Projects here are **experiments, explorations, and implementations** in:
 
-| Área | Foco |
+| Area | Focus |
 |---|---|
-| Distributed execution systems | Workers, filas, orquestração |
+| Distributed execution systems | Workers, queues, orquestration |
 | Kafka-based pipelines | Streaming, event-driven design |
-| OSINT automation | Coleta, correlação, enriquecimento |
-| Intelligence graph modeling | Grafos de entidades e relações |
+| OSINT automation | Aquire, correlation, enrichment|
+| Web/Mobile services | App's, Micro services, API's  |
 | Security tooling | Scanners, fingerprinting, CVEs |
-| Data extraction pipelines | ETL, parsing, normalização |
+| Data extraction pipelines | ETL, parsing, normalization |
 
 Many are architecture pattern explorations rather than finished products. The goal is to work through ideas in code.
 
