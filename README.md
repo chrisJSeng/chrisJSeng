@@ -23,7 +23,7 @@
 
 <br/>
 
-## 🧭 What I Actually Do
+## <img src="https://api.iconify.design/lucide/compass.svg?color=%2300c9a7" width="22" height="22" align="top"/> What I Actually Do
 
 > Most engineering fails not because of bad code, but because of **bad problem framing**.
 
@@ -33,13 +33,13 @@ My work sits at the intersection of two disciplines:
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 1 · Product Engineering
+### <img src="https://api.iconify.design/lucide/target.svg?color=%2300c9a7" width="18" height="18" align="top"/> 1 · Product Engineering
 I bridge the gap between business intent and technical execution — translating vague requirements into precise system specifications, then guiding implementation with AI-assisted development. I use LLMs as force multipliers for design, spec writing, and code generation, but I own the architectural decisions.
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ 2 · Systems Engineering
+### <img src="https://api.iconify.design/lucide/blocks.svg?color=%2300c9a7" width="18" height="18" align="top"/> 2 · Systems Engineering
 I design and build distributed systems, data pipelines, and intelligence platforms that are observable, fault-tolerant, and maintainable at scale. The emphasis is always on simplicity and resilience over cleverness.
 
 </td>
@@ -48,7 +48,7 @@ I design and build distributed systems, data pipelines, and intelligence platfor
 
 ---
 
-## ⚙️ Engineering Principles
+## <img src="https://api.iconify.design/lucide/settings-2.svg?color=%2300c9a7" width="22" height="22" align="top"/> Engineering Principles
 
 ```mermaid
 mindmap
@@ -67,34 +67,38 @@ mindmap
 
 ---
 
-## 🧩 What I Build
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%2300c9a7" width="22" height="22" align="top"/> What I Build
 
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
 
-### 🌐
+<img src="https://api.iconify.design/lucide/network.svg?color=%2300c9a7" width="34" height="34"/>
+
 **Distributed Platforms**
 <sub>Systems composed of multiple services and workers communicating through message-driven architectures — event-based, asynchronous, fault-tolerant.</sub>
 
 </td>
 <td width="25%" valign="top" align="center">
 
-### 🕸️
+<img src="https://api.iconify.design/lucide/git-fork.svg?color=%2300c9a7" width="34" height="34"/>
+
 **Intelligence & Correlation**
 <sub>Platforms that ingest, process, and correlate large volumes of data using entity correlation, graph-based modeling, and automated enrichment pipelines.</sub>
 
 </td>
 <td width="25%" valign="top" align="center">
 
-### 🛡️
+<img src="https://api.iconify.design/lucide/shield-check.svg?color=%2300c9a7" width="34" height="34"/>
+
 **Security & OSINT**
 <sub>OSINT collectors, vulnerability intelligence pipelines, observable correlation engines, distributed scanning infrastructure, threat intelligence graphs.</sub>
 
 </td>
 <td width="25%" valign="top" align="center">
 
-### 🤖
+<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%2300c9a7" width="34" height="34"/>
+
 **Applied AI Systems**
 <sub>AI as a force multiplier for engineering — automated analysis pipelines, data enrichment, anomaly detection, pattern discovery, decision support.</sub>
 
@@ -104,7 +108,7 @@ mindmap
 
 ---
 
-## 🔄 From Problem to System: My Process
+## <img src="https://api.iconify.design/lucide/workflow.svg?color=%2300c9a7" width="22" height="22" align="top"/> From Problem to System: My Process
 
 ```mermaid
 flowchart TD
@@ -124,24 +128,16 @@ I treat every project as a product problem first, a technical problem second. Th
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2300c9a7" width="22" height="22" align="top"/> Tech Stack
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,kafka,postgres,mongodb,elasticsearch,docker,rust&theme=dark&perline=9" />
 
 </div>
 
 <details>
-<summary><b>📦 Stack details</b></summary>
+<summary><b>Stack details</b></summary>
 <br/>
 
 <table>
@@ -194,14 +190,13 @@ I treat every project as a product problem first, a technical problem second. Th
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2300c9a7" width="22" height="22" align="top"/> GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisJSeng&theme=tokyonight&hide_border=true&background=0f2027&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7" />
 <br/>
 <img src="https://raw.githubusercontent.com/chrisJSeng/chrisJSeng/main/github-metrics.svg" width="800"/>
 </div>
-
 
 ---
 
@@ -215,7 +210,7 @@ I treat every project as a product problem first, a technical problem second. Th
 
 ---
 
-## 🧠 Current Explorations
+## <img src="https://api.iconify.design/lucide/telescope.svg?color=%2300c9a7" width="22" height="22" align="top"/> Current Explorations
 
 ```yaml
 interests:
@@ -230,41 +225,43 @@ interests:
 
 ---
 
-## 🧩 Problems I Enjoy Solving
+## <img src="https://api.iconify.design/lucide/puzzle.svg?color=%2300c9a7" width="22" height="22" align="top"/> Problems I Enjoy Solving
 
 <details open>
 <summary><b>Click here</b></summary>
 
-- 🔹 Systems that process large volumes of data reliably
-- 🔹 Orchestrating distributed tools and workers
-- 🔹 Correlating fragmented, noisy data sources
-- 🔹 Building intelligence layers on top of raw data
-- 🔹 Reducing operational complexity in distributed environments
-- 🔹 Making complex systems observable and debuggable
-- 🔹 Translating ambiguous business needs into precise technical specs
+<br/>
+
+- **Throughput** — systems that process large volumes of data reliably
+- **Orchestration** — coordinating distributed tools and workers
+- **Correlation** — making sense of fragmented, noisy data sources
+- **Intelligence layers** — building meaning on top of raw data
+- **Operability** — reducing complexity in distributed environments
+- **Observability** — making complex systems debuggable
+- **Translation** — turning ambiguous business needs into precise specs
 
 </details>
 
 ---
 
-## 📂 This GitHub
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2300c9a7" width="22" height="22" align="top"/> This GitHub
 
 Projects here are **experiments, explorations, and implementations** in:
 
 | Área | Foco |
 |---|---|
-| 🌐 Distributed execution systems | Workers, filas, orquestração |
-| 📡 Kafka-based pipelines | Streaming, event-driven design |
-| 🕵️ OSINT automation | Coleta, correlação, enriquecimento |
-| 🕸️ Intelligence graph modeling | Grafos de entidades e relações |
-| 🛡️ Security tooling | Scanners, fingerprinting, CVEs |
-| 🔍 Data extraction pipelines | ETL, parsing, normalização |
+| Distributed execution systems | Workers, filas, orquestração |
+| Kafka-based pipelines | Streaming, event-driven design |
+| OSINT automation | Coleta, correlação, enriquecimento |
+| Intelligence graph modeling | Grafos de entidades e relações |
+| Security tooling | Scanners, fingerprinting, CVEs |
+| Data extraction pipelines | ETL, parsing, normalização |
 
 Many are architecture pattern explorations rather than finished products. The goal is to work through ideas in code.
 
 ---
 
-## 🤝 Collaboration
+## <img src="https://api.iconify.design/lucide/handshake.svg?color=%2300c9a7" width="22" height="22" align="top"/> Collaboration
 
 ![Distributed Systems](https://img.shields.io/badge/-Distributed_Systems-2c5364?style=flat-square)
 ![Security Engineering](https://img.shields.io/badge/-Security_Engineering-2c5364?style=flat-square)
@@ -278,7 +275,6 @@ If you are working on difficult problems in these areas, **open an issue** or **
 
 <div align="center">
 
-### 💬
 *"The best system design is the one that makes the problem obvious."*
 
 <br/>
