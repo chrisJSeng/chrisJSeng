@@ -51,20 +51,18 @@ I design and build distributed systems, data pipelines, and intelligence platfor
 ## <img src="https://api.iconify.design/lucide/settings-2.svg?color=%2300c9a7" width="22" height="22" align="top"/> Engineering Principles
 
 ```mermaid
-%%{init: {'themeVariables': { 'edgeLabelBackground': '#0f2027'}}}%%
-flowchart TD
-    A[Business<br/>Demand] --> B{Problem<br/>Framing}
-    B -->|What is the<br/>actual root problem?| C[System<br/>Specification]
-    C -->|Contracts, boundaries,<br/>data flows| D[AI-Assisted<br/>Development]
-    D -->|LLMs accelerate,<br/>engineers architect| E[Observable,<br/>Resilient System]
- 
-    style A fill:#0f2027,stroke:#00c9a7,stroke-width:1px,color:#fff
-    style B fill:#203a43,stroke:#00c9a7,stroke-width:1px,color:#fff
-    style C fill:#2c5364,stroke:#00c9a7,stroke-width:1px,color:#fff
-    style D fill:#00838f,stroke:#00c9a7,stroke-width:1px,color:#fff
-    style E fill:#00c9a7,stroke:#0f2027,stroke-width:1px,color:#0f2027
- 
-    linkStyle default color:#00c9a7,stroke:#00c9a7
+mindmap
+  root((Engineering<br/>Principles))
+    Root Cause
+      Solve the root<br/>problem, not the symptom
+    Simplicity
+      Prefer simple<br/>architectures over clever ones
+    Observability
+      Build observability<br/>in from day one
+    Resilience
+      Design for failure<br/>before it happens
+    Security
+      Security by design<br/>and by default
 ```
 
 ---
@@ -113,17 +111,20 @@ flowchart TD
 ## <img src="https://api.iconify.design/lucide/workflow.svg?color=%2300c9a7" width="22" height="22" align="top"/> From Problem to System: My Process
 
 ```mermaid
+%%{init: {'themeVariables': { 'edgeLabelBackground': '#0f2027'}}}%%
 flowchart TD
     A[Business<br/>Demand] --> B{Problem<br/>Framing}
     B -->|What is the<br/>actual root problem?| C[System<br/>Specification]
     C -->|Contracts, boundaries,<br/>data flows| D[AI-Assisted<br/>Development]
     D -->|LLMs accelerate,<br/>engineers architect| E[Observable,<br/>Resilient System]
-
+ 
     style A fill:#0f2027,stroke:#00c9a7,stroke-width:1px,color:#fff
     style B fill:#203a43,stroke:#00c9a7,stroke-width:1px,color:#fff
     style C fill:#2c5364,stroke:#00c9a7,stroke-width:1px,color:#fff
     style D fill:#00838f,stroke:#00c9a7,stroke-width:1px,color:#fff
     style E fill:#00c9a7,stroke:#0f2027,stroke-width:1px,color:#0f2027
+ 
+    linkStyle default color:#00c9a7,stroke:#00c9a7
 ```
 
 I treat every project as a product problem first, a technical problem second. This means understanding **why** before **how**, and documenting decisions so future engineers (or AI tools) can understand the reasoning behind the system.
